@@ -1,0 +1,41 @@
+#BGLogin{
+    background-image: url('../img/bgIndex.jpg');
+    height: 200%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#BGInicio{
+    background-image: url('../img/BG2.png');
+    background-color: white;
+    background-attachment: fixed;
+}
+
+#MenuPrincipal{
+    box-shadow: 5px 5px 5px !important;
+}
+
+#InicioSesion{
+    background-image: url('../img/bgSesion.jpg');
+    height: 200%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#footer{
+    padding-top: 5000px;
+    background-color: #34495e !important;
+}
+
+#Registro{
+    background-image: url('../img/bgSesion.jpg');
+    height: 200%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
