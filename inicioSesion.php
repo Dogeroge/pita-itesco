@@ -54,7 +54,7 @@ include_once 'app/conexion.ini.php';
                                 </div>
                                 <br>
                                 <div class="text-right">
-                                    <a class="btn-lg btn-primary" href="inicio.php">Aceptar</a>
+                                    <a class="btn-lg btn-primary" href="Inicio.php">Aceptar</a>
                                 </div>
                                 <div class="form-check">
                                     <label class="form-check-label">
